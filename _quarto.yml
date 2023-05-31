@@ -6,7 +6,7 @@ website:
   site-url: https://alexenge.github.io
   description: The personal website of Alexander Enge
   repo-url: https://github.com/alexenge/alexenge.github.io
-  image: images/logo.svg
+  image: images/logo.png
   search: false
   navbar:
     title: false
@@ -19,7 +19,7 @@ website:
         href: https://github.com/alexenge
   sidebar:
     style: floating
-    logo: images/logo.svg
+    logo: images/logo.png
     logo_alt: |
       In black, the lower-case danish letter æ,
       combining the initials of my name (A and E).
@@ -40,7 +40,7 @@ website:
   twitter-card:
     title: Alexander Enge
     description: The personal website of Alexander Enge
-    image: images/logo.svg
+    image: images/logo.png
     image-alt: |
       In black, the lower-case danish letter æ,
       combining the initials of my name (A and E).
@@ -50,7 +50,7 @@ website:
     creator: "@alexenge"
     site: "@alexenge"
   open-graph:
-    image: images/logo.svg
+    image: images/logo.png
     image-alt: |
       In black, the lower-case danish letter æ,
       combining the initials of my name (A and E).
