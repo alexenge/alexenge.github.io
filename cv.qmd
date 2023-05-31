@@ -1,0 +1,72 @@
+---
+title: "curriculum vitae"
+---
+
+## education
+
+* **2021–today**: PhD student, Max Planck Institute for Human Cognitive and Brain Sciences and Humboldt-Universität zu Berlin
+* **2019–2021**: MSc in Psychology, Humboldt-Universität zu Berlin
+* **2016–2019**: BSc in Psychology, Humboldt-Universität zu Berlin
+
+## jobs & internships
+
+* **2017–2021**: Research assistant, Abdel Rahman Lab for Neurocognitive Psychology, Humboldt-Universität zu Berlin
+* **2019**: Research internship, Department of Neuropsychology, Max Planck Institute for Human Cognitive and Brain Sciences
+* **2019**: Research work experience, Social Networks Lab, Royal Holloway, University of London
+* **2018**: Research internship, Biological Psychology Lab, Humboldt-Universität zu Berlin
+* **2018**: Research internship, Abdel Rahman Lab for Neurocognitive Psychology, Humboldt-Universität zu Berlin
+
+## awards & scholarships
+
+* **2021–today**: PhD scholarship, German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)
+* **2019–2021**: Undergraduate scholarship, German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)
+* **2021**: Best MSc degree in Psychology, Humboldt-Universität zu Berlin
+* **2019**: Best BSc degree in Psychology, Humboldt-Universtität zu Berlin
+
+## volunteer & committee work
+
+* **2021–today**: Open Science Initiative, Max Planck Institute for Human Cognitive and Brain Sciences. https://www.cbs.mpg.de/en/cbs-open-science
+* **2021–today**: PhD representative, Max Planck Institute for Human Cognitive and Brain Sciences. https://www.cbs.mpg.de/phd-representatives
+* **2018–2021**: Undergraduate student representative, Department of Psychology, Humboldt-Universität zu Berlin
+* **2016–2021**: Etudes Sans Frontières, Berlin group
+
+## publications
+
+Click [here](publications.qmd) for the full list.
+
+* **Enge, A.**, Süß, F., & Rahman, R. A. (2023). Instant effects of semantic information on visual perception. *bioRxiv*. <https://doi.org/10.1101/2023.04.19.537469>
+* Aristei, S., …, **Enge, A.**, et al. (2022). Affect as Anaesthetic: How emotional contexts modulate the processing of counterintuitive concepts. *Language, Cognition and Neuroscience*. <https://doi.org/10.1080/23273798.2022.2085312>
+* **Enge, A.**, Abdel Rahman, R., & Skeide, M. A. (2021). A meta-analysis of fMRI studies of semantic cognition in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2021.118436>
+* **Enge, A.**, Friederici, A. D., & Skeide, M. A. (2020). A meta-analysis of fMRI studies of language comprehension in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2020.116858>
+
+## talks & posters
+
+Click [here](talks.qmd) for the full list.
+
+* **Enge, A.**, Friederici, A. D., Abdel Rahman, R., & Skeide, M. A. (2022). Meta-analyzing the cortical networks for language and semantics in children. *14th Annual Meeting of the Society for the Neurobiology of Language*.
+* **Enge, A.** & Skeide, M. A. (2022). Seeing language: How learning to read connects vision and speech. CO-AIR: Current Opinion on Audiovisual Integration and Reading.
+* **Enge, A.**, Süß, F., & Abdel Rahman, R. (2021). Understanding object function instantly shapes perception within less than 200 ms. *Psychologie und Gehirn*.
+* **Enge, A.**, Süß, F., & Abdel Rahman, R. (2021). Event-related potentials of the semantically informed perception of unfamiliar objects. *Tagung experimentell arbeitender Psychologen*.
+
+## open source software
+
+* **hu-neuro-pipeline**: Single trial EEG pipeline at the Abdel Rahman Lab for Neurocognitive Psychology, Humboldt-Universität zu Berlin. <https://github.com/alexenge/hu-neuro-pipeline>
+* Contributed to [NiMARE](https://nimare.readthedocs.io), [Nilearn](https://nilearn.github.io/stable/index.html)
+
+## workshops & summer schools
+
+* **Neuromatch Academy, Computational Neuroscience** (2021) – Interactive student
+* **Tools for theory: Improving the theoretical foundations of psychological science** (2021) – Event series co-organized with Katarzyna Gugnowska
+
+## peer review
+
+* Cerebral Cortex, Developmental Science, Psychophysiology
+
+## skills
+
+* **Neural data analysis**: EEG, fMRI, VBM, DTI
+* **Programming**: Python, R, MATLAB
+* **Statistics**: Linear mixed-effects modeling, machine learning, Bayesian statistics, meta-analysis
+* **Reproducibility**: git, GitHub, Docker/Singularity, DataLad
+* **Languages**: German (native), English (TOEFL 111/120), Danish, Spanish, Latin (basic)
+* **Sports**: Long distance runner (2:45 h Marathon) at SC DHfK Leipzig

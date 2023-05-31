@@ -1,0 +1,26 @@
+---
+title: "publications"
+---
+
+## 2023
+
+* **Enge, A.**, Süß, F., & Rahman, R. A. (2023). Instant effects of semantic information on visual perception. *bioRxiv*. <https://doi.org/10.1101/2023.04.19.537469>
+    * Stimuli and code at <https://github.com/alexenge/semantically-informed-perception>
+* **Enge, A.**, Kapoor, S., Kieslinger, A.-S., & Skeide, M. A. (2023). A meta-analysis of mental rotation in the first years of life. *Developmental Science*. <https://doi.org/10.1111/desc.13381>
+    * Data and code at <https://github.com/SkeideLab/meta_rotation>
+
+## 2022
+
+* Aristei, S., Knoop, C. A., Lubrich, O., Nehrlich, T., **Enge, A.**, Stark, K., Sommer, W., & Abdel Rahman, R. (2022). Affect as Anaesthetic: How emotional contexts modulate the processing of counterintuitive concepts. *Language, Cognition and Neuroscience*. <https://doi.org/10.1080/23273798.2022.2085312>
+    * Code at <https://github.com/alexenge/mci_emotion>
+
+## 2021
+
+* **Enge, A.**, Abdel Rahman, R., & Skeide, M. A. (2021). A meta-analysis of fMRI studies of semantic cognition in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2021.118436>
+    * Data and code at <https://github.com/SkeideLab/meta_semantics>
+* Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). Distrust before first sight: Knowledge- and appearance-based effects of trustworthiness on the visual consciousness of faces. *bioRxiv*. <https://doi.org/10.1101/2021.02.24.432562>
+* Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). Electrophysiological chronometry of graded consciousness during the attentional blink. Cerebral Cortex. <https://doi.org/10.1093/cercor/bhab289>
+
+## 2020
+
+* **Enge, A.**, Friederici, A. D., & Skeide, M. A. (2020). A meta-analysis of fMRI studies of language comprehension in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2020.116858>

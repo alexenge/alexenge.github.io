@@ -1,0 +1,35 @@
+---
+title: "running"
+---
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+![](images/running1.jpg)
+
+```{=html}
+<iframe height='160' width='360' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74218964/activity-summary/609a3a04017397fbd3668c53616cd4d604108836'></iframe>
+```
+
+![](images/running2.jpg)
+
+:::
+
+::: {.column width="4%"}
+
+:::
+
+::: {.column width="48%"}
+
+![](images/running3.jpg)
+
+```{=html}
+<iframe height='454' width='360' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/74218964/latest-rides/609a3a04017397fbd3668c53616cd4d604108836'></iframe>
+```
+
+![](images/running4.jpg)
+
+:::
+
+::::

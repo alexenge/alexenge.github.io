@@ -1,0 +1,129 @@
+/*-- scss:defaults --*/
+
+$theme: "cosmo" !default;
+
+@import 'https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Sans+Pro&display=swap';
+
+$font-family-sans-serif: "Source Sans Pro", sans-serif !default;
+$headings-font-family: "DM Serif Display", serif !default;
+
+// colors
+$body-color: black !default;
+$primary: black !default;
+
+/*-- scss:rules --*/
+
+// sidebar
+.quarto-sidebar {
+    padding-right: 2rem;
+}
+
+.quarto-sidebar-glass {
+    padding-top: 0;
+}
+
+.sidebar-logo {
+    max-width: 50%;
+    padding-bottom: .5rem;
+}
+
+.pt-lg-2.mt-2.text-left.sidebar-header {
+    text-align: right;
+}
+
+.sidebar li {
+    text-align: right;
+}
+
+.sidebar-item-text {
+    margin-left: auto;
+    margin-right: 0;
+    text-align: right;
+}
+
+.sidebar-item-container a:hover {
+    color: $primary;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: $primary;
+    text-underline-position: under;
+}
+
+.sidebar-item-container .active {
+    color: $primary;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: $primary;
+    text-underline-position: under;
+}
+
+// headings
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    border-bottom: none;
+}
+
+.quarto-title {
+    margin-top: -0.5rem;
+}
+
+// links
+a {
+    color: $body-color;
+    text-decoration-thickness: 2px;
+    text-underline-offset: -0.2rem;
+    text-underline-position: under;
+}
+
+a:hover {
+    color: $primary;
+    text-decoration: none;
+}
+
+.blockquote {
+    color: $body-color;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+}
+
+blockquote {
+    text-align: center;
+    font-style: italic;
+    color: $body-color;
+    border-left: none;
+    border-right: none;
+    border-top: 0.1rem solid $primary;
+    border-bottom: 0.1rem solid $primary;
+}
+
+// home page
+div.quarto-about-trestles {
+    margin-top: 0rem !important;
+    padding-top: 0rem !important;
+}
+
+div.quarto-about-trestles .about-contents {
+    padding-top: 0rem;
+    border-left: none;
+}
+
+h1 {
+    margin-top: -0.3rem;
+}
+
+div.quarto-about-trestles .about-entity .about-link {
+    color: $primary;
+}
+
+.navbar .quarto-navbar-tools .quarto-navigation-tool:hover {
+    color: $primary;
+}

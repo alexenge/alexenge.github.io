@@ -1,7 +1,40 @@
 ---
-title: "alexenge.github.io"
+title: "alexander enge"
+about:
+  id: hero-heading
+  template: trestles
+  image: images/profile2.jpg
+  image-width: 85%
+  image-shape: rounded
+  links:
+    - icon: envelope-fill
+      text: E-mail
+      href: mailto:enge@cbs.mpg.de
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/alexenge
+    - icon: github
+      text: GitHub
+      href: https://github.com/alexenge
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# welcome
+
+I'm glad you found your way to my website!
+
+I'm Alex and I'm currently a PhD student in Psychology.
+My research focuses on how people learn to make sense of the visual world.
+For example, I'm studying how our perception of objects changes as we discover their function, or how words get their meaning as children learn to read.
+I'm using techniques such as EEG and fMRI to probe the neural correlates of these processes.
+
+I try to do research in a way that is transparent, reproducible, and inclusive.
+This may include things like pre-registering studies, publishing preprints, sharing data and code, and contributing to open source software development.
+
+In my spare time, I dabble in long-distance running.
+
+Please feel free to take a look around to learn more!
+If you find any errors or typos, please <a href="mailto:enge@cbs.mpg.de" target="_blank">send me an e-mail</a> or <a href="https://github.com/alexenge/alexenge.github.io/issues" target="_blank">open an issue on GitHub</a>.
+
+:::

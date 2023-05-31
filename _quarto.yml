@@ -2,18 +2,72 @@ project:
   type: website
 
 website:
-  title: "alexenge.github.io"
+  title: "Alexander Enge"
+  site-url: https://alexenge.github.io
+  description: The personal website of Alexander Enge
+  repo-url: https://github.com/alexenge/alexenge.github.io
+  image: images/logo.svg
+  search: false
   navbar:
-    left:
+    title: false
+    background: "transparent"
+    foreground: "#000000"
+    tools:
+      - icon: twitter
+        href: https://twitter.com/alexenge
+      - icon: github
+        href: https://github.com/alexenge
+  sidebar:
+    style: floating
+    logo: images/logo.svg
+    logo_alt: |
+      In black, the lower-case danish letter æ,
+      combining the initials of my name (A and E).
+    background: "#ffffff"
+    foreground: "#000000"
+    contents:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: running.qmd
+        text: Running
+  favicon: images/favicon.png
+  twitter-card:
+    title: Alexander Enge
+    description: The personal website of Alexander Enge
+    image: images/logo.svg
+    image-alt: |
+      In black, the lower-case danish letter æ,
+      combining the initials of my name (A and E).
+    image-width: 500
+    image-height: 500
+    card-style: summary
+    creator: "@alexenge"
+    site: "@alexenge"
+  open-graph:
+    image: images/logo.svg
+    image-alt: |
+      In black, the lower-case danish letter æ,
+      combining the initials of my name (A and E).
+    image-width: 500
+    image-height: 500
+    locale: en-US
+  page-footer:
+    center: |
+      Copyright 2023, Alexander Enge<br>
+      Made with <a href="https://quarto.org" target="_blank">Quarto</a>
+    foreground: "#000000"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: assets/theme.scss
+    css: assets/styles.css
+    toc: false
 
-
-
+execute:
+  freeze: auto
