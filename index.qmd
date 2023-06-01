@@ -4,7 +4,7 @@ about:
   id: hero-heading
   template: trestles
   image: images/profile2.jpg
-  image-width: 85%
+  image-width: 90%
   image-shape: rounded
   links:
     - icon: envelope-fill

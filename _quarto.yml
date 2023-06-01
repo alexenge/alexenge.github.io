@@ -59,6 +59,9 @@ format:
     theme: assets/theme.scss
     css: assets/styles.css
     toc: false
+    grid:
+      sidebar-width: 150px
+      body-width: 720px
 
 execute:
   freeze: auto
