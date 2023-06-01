@@ -8,15 +8,6 @@ website:
   repo-url: https://github.com/alexenge/alexenge.github.io
   image: images/logo.png
   search: false
-  navbar:
-    title: false
-    background: "transparent"
-    foreground: "#000000"
-    tools:
-      - icon: twitter
-        href: https://twitter.com/alexenge
-      - icon: github
-        href: https://github.com/alexenge
   sidebar:
     style: floating
     logo: images/logo.png

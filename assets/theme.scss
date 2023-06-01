@@ -13,6 +13,11 @@ $primary: black !default;
 
 /*-- scss:rules --*/
 
+// page
+#quarto-content {
+    margin-top: 1rem;
+}
+
 // sidebar
 .quarto-sidebar {
     padding-right: 2rem;
