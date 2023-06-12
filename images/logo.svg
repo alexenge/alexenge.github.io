@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000.0012"
-   height="1407.7144"
-   viewBox="0 0 529.16031 372.45308"
+   width="2000.0005"
+   height="1372.7814"
+   viewBox="0 0 529.16012 363.21051"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35455254"
-     inkscape:cx="602.57515"
-     inkscape:cy="412.89959"
+     inkscape:cx="709.36169"
+     inkscape:cy="545.74288"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -35,10 +35,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1617"
+     inkscape:window-height="947"
+     inkscape:window-x="303"
+     inkscape:window-y="25"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -56,17 +56,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-140.37089,-88.801775)">
+     transform="translate(-140.37091,-88.80168)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:728.871px;line-height:1.25;font-family:'DM Serif Display';-inkscape-font-specification:'DM Serif Display, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.2217"
-       x="119.23363"
-       y="450.32178"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:801.568px;line-height:1.25;font-family:'DM Serif Display';-inkscape-font-specification:'DM Serif Display, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20.0391"
+       x="85.18483"
+       y="443.01019"
        id="text840"><tspan
          sodipodi:role="line"
          id="tspan838"
-         x="119.23363"
-         y="450.32178"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:728.871px;font-family:'DM Serif Display';-inkscape-font-specification:'DM Serif Display, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:18.2217">æ</tspan></text>
+         x="85.18483"
+         y="443.01019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:801.568px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:20.0391">æ</tspan></text>
   </g>
 </svg>

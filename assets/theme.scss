@@ -2,10 +2,18 @@
 
 $theme: "cosmo" !default;
 
-@import 'https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Sans+Pro&display=swap';
+@font-face {
+    font-family: 'CMU Serif Upright Italic';
+    src: url('fonts/cmu-serif-upright-italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/source-sans-pro.woff') format('woff');
+}
 
 $font-family-sans-serif: "Source Sans Pro", sans-serif !default;
-$headings-font-family: "DM Serif Display", serif !default;
+$headings-font-family: "CMU Serif Upright Italic", serif !default;
 
 // colors
 $body-color: black !default;
