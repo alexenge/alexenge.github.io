@@ -24,7 +24,7 @@ website:
       - href: publications.qmd
         text: Publications
       - href: talks.qmd
-        text: Talks
+        text: Talks & posters
       - href: running.qmd
         text: Running
   favicon: images/favicon.png
