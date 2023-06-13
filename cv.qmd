@@ -34,7 +34,7 @@ title: "Curriculum vitae"
 
 Click [here](publications.qmd) for the full list.
 
-* **Enge, A.**, Süß, F., & Rahman, R. A. (2023). Instant effects of semantic information on visual perception. *bioRxiv*. <https://doi.org/10.1101/2023.04.19.537469>
+* **Enge, A.**, Süß, F., & Rahman, R. A. (2023). Instant effects of semantic information on visual perception. *Journal of Neuroscience*. <https://doi.org/10.1523/JNEUROSCI.2038-22.2023>
 * Aristei, S., …, **Enge, A.**, et al. (2022). Affect as Anaesthetic: How emotional contexts modulate the processing of counterintuitive concepts. *Language, Cognition and Neuroscience*. <https://doi.org/10.1080/23273798.2022.2085312>
 * **Enge, A.**, Abdel Rahman, R., & Skeide, M. A. (2021). A meta-analysis of fMRI studies of semantic cognition in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2021.118436>
 * **Enge, A.**, Friederici, A. D., & Skeide, M. A. (2020). A meta-analysis of fMRI studies of language comprehension in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2020.116858>
