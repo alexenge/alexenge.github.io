@@ -28,7 +28,7 @@ title: "Curriculum vitae"
 * **2021–today**: <a href="https://www.cbs.mpg.de/en/cbs-open-science" target="_blank">Open Science Initiative</a>, Max Planck Institute for Human Cognitive and Brain Sciences
 * **2021–today**: <a href="https://www.cbs.mpg.de/phd-representatives" target="_blank">PhD representative</a>, Max Planck Institute for Human Cognitive and Brain Sciences
 * **2018–2021**: Undergraduate student representative, Department of Psychology, Humboldt-Universität zu Berlin
-* **2016–2021**: Etudes Sans Frontières, Berlin group
+* **2016–2021**: <a href="http://studieren-ohne-grenzen.org/en" target="_blank">Studies Without Borders</a>, Berlin group
 
 ## Publications
 
