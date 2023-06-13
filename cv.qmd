@@ -51,7 +51,7 @@ Click [here](talks.qmd) for the full list.
 ## Open source software
 
 * **<a href="https://github.com/alexenge/hu-neuro-pipeline" target="_blank">hu-neuro-pipeline</a>**: Single trial EEG pipeline at the Abdel Rahman Lab for Neurocognitive Psychology, Humboldt-Universität zu Berlin
-* Contributed to [NiMARE](https://nimare.readthedocs.io), [Nilearn](https://nilearn.github.io/stable/index.html)
+* Contributed to <a href="https://nimare.readthedocs.io" target="_blank">NiMARE</a>, <a href="https://nilearn.github.io/stable/index.html" target="_blank">Nilearn</a>
 
 ## Workshops & summer schools
 
