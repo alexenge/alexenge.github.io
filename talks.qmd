@@ -2,6 +2,11 @@
 title: "Talks & posters"
 ---
 
+## 2023
+
+* **Enge, A.**, Mahajan, V., Huettig, F., & Skeide, M. A. (2023). Densely sampling the development of multisensory mapping while learning to read. *Psychologie und Gehirn*
+* **Enge, A.**, Huettig, F., Mahajan, V., & Skeide, M. A. (2023). Densely sampling brain activation during learning to read. *Scientific advisory board meeting, Max Planck Institute for Human Cognitive and Brain Sciences*
+
 ## 2022
 
 * **Enge, A.**, Friederici, A. D., Abdel Rahman, R., & Skeide, M. A. (2022). Meta-analyzing the cortical networks for language and semantics in children. *14th Annual Meeting of the Society for the Neurobiology of Language*

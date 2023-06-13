@@ -43,9 +43,9 @@ Click [here](publications.qmd) for the full list.
 
 Click [here](talks.qmd) for the full list.
 
+* **Enge, A.**, Mahajan, V., Huettig, F., & Skeide, M. A. (2023). Densely sampling the development of multisensory mapping while learning to read. *Psychologie und Gehirn*
 * **Enge, A.**, Friederici, A. D., Abdel Rahman, R., & Skeide, M. A. (2022). Meta-analyzing the cortical networks for language and semantics in children. *14th Annual Meeting of the Society for the Neurobiology of Language*
 * **Enge, A.** & Skeide, M. A. (2022). Seeing language: How learning to read connects vision and speech. *CO-AIR: Current Opinion on Audiovisual Integration and Reading*
-* **Enge, A.**, Süß, F., & Abdel Rahman, R. (2021). Understanding object function instantly shapes perception within less than 200 ms. *Psychologie und Gehirn*
 * **Enge, A.**, Süß, F., & Abdel Rahman, R. (2021). Event-related potentials of the semantically informed perception of unfamiliar objects. *Tagung experimentell arbeitender Psychologen*
 
 ## Open source software
