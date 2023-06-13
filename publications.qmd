@@ -4,23 +4,24 @@ title: "Publications"
 
 ## 2023
 
-* **Enge, A.**, Süß, F., & Rahman, R. A. (2023). Instant effects of semantic information on visual perception. *Journal of Neuroscience*. <https://doi.org/10.1523/JNEUROSCI.2038-22.2023>
-    * Stimuli and code at <https://github.com/alexenge/semantically-informed-perception>
-* **Enge, A.**, Kapoor, S., Kieslinger, A.-S., & Skeide, M. A. (2023). A meta-analysis of mental rotation in the first years of life. *Developmental Science*. <https://doi.org/10.1111/desc.13381>
-    * Data and code at <https://github.com/SkeideLab/meta_rotation>
+* **Enge, A.**, Süß, F., & Rahman, R. A. (2023). <a href="https://doi.org/10.1523/JNEUROSCI.2038-22.2023" target="_blank">Instant effects of semantic information on visual perception</a>. *Journal of Neuroscience*
+    * <a href="https://doi.org/10.1101/2023.04.19.537469" target="_blank">Open access</a>
+    * <a href="https://github.com/alexenge/semantically-informed-perception" target="_blank">Stimuli and code</a>
+* **Enge, A.**, Kapoor, S., Kieslinger, A.-S., & Skeide, M. A. (2023). <a href="https://doi.org/10.1111/desc.13381" target="_blank">A meta-analysis of mental rotation in the first years of life</a>. *Developmental Science*
+    * <a href="https://github.com/SkeideLab/meta_rotation" target="_blank">Data and code</a>
 
 ## 2022
 
-* Aristei, S., Knoop, C. A., Lubrich, O., Nehrlich, T., **Enge, A.**, Stark, K., Sommer, W., & Abdel Rahman, R. (2022). Affect as Anaesthetic: How emotional contexts modulate the processing of counterintuitive concepts. *Language, Cognition and Neuroscience*. <https://doi.org/10.1080/23273798.2022.2085312>
-    * Code at <https://github.com/alexenge/mci_emotion>
+* Aristei, S., Knoop, C. A., Lubrich, O., Nehrlich, T., **Enge, A.**, Stark, K., Sommer, W., & Abdel Rahman, R. (2022). <a href="https://doi.org/10.1080/23273798.2022.2085312" target="_blank">Affect as Anaesthetic: How emotional contexts modulate the processing of counterintuitive concepts</a>. *Language, Cognition and Neuroscience*
+    * <a href="https://github.com/alexenge/mci_emotion" target="_blank">Code</a>
 
 ## 2021
 
-* **Enge, A.**, Abdel Rahman, R., & Skeide, M. A. (2021). A meta-analysis of fMRI studies of semantic cognition in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2021.118436>
-    * Data and code at <https://github.com/SkeideLab/meta_semantics>
-* Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). Distrust before first sight: Knowledge- and appearance-based effects of trustworthiness on the visual consciousness of faces. *bioRxiv*. <https://doi.org/10.1101/2021.02.24.432562>
-* Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). Electrophysiological chronometry of graded consciousness during the attentional blink. Cerebral Cortex. <https://doi.org/10.1093/cercor/bhab289>
+* **Enge, A.**, Abdel Rahman, R., & Skeide, M. A. (2021). <a href="https://doi.org/10.1016/j.neuroimage.2021.118436" target="_blank">A meta-analysis of fMRI studies of semantic cognition in children</a>. *NeuroImage*
+    * <a href="https://github.com/SkeideLab/meta_semantics" target="_blank">Data and code</a>
+* Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). <a href="https://doi.org/10.1101/2021.02.24.432562" target="_blank">Distrust before first sight: Knowledge- and appearance-based effects of trustworthiness on the visual consciousness of faces</a>. *bioRxiv*
+* Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). <a href="https://doi.org/10.1093/cercor/bhab289" target="_blank">Electrophysiological chronometry of graded consciousness during the attentional blink</a>. *Cerebral Cortex*
 
 ## 2020
 
-* **Enge, A.**, Friederici, A. D., & Skeide, M. A. (2020). A meta-analysis of fMRI studies of language comprehension in children. *NeuroImage*. <https://doi.org/10.1016/j.neuroimage.2020.116858>
+* **Enge, A.**, Friederici, A. D., & Skeide, M. A. (2020). <a href="https://doi.org/10.1016/j.neuroimage.2020.116858" target="_blank">A meta-analysis of fMRI studies of language comprehension in children</a>. *NeuroImage*
