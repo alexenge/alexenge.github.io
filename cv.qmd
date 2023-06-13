@@ -32,21 +32,21 @@ title: "Curriculum vitae"
 
 ## Publications
 
-Click [here](publications.qmd) for the full list.
-
 * **Enge, A.**, Süß, F., & Rahman, R. A. (2023). <a href="https://doi.org/10.1523/JNEUROSCI.2038-22.2023" target="_blank">Instant effects of semantic information on visual perception</a>. *Journal of Neuroscience*
 * Aristei, S., …, **Enge, A.**, et al. (2022). <a href="https://doi.org/10.1080/23273798.2022.2085312" target="_blank">Affect as Anaesthetic: How emotional contexts modulate the processing of counterintuitive concepts</a>. *Language, Cognition and Neuroscience*
 * **Enge, A.**, Abdel Rahman, R., & Skeide, M. A. (2021). <a href="https://doi.org/10.1016/j.neuroimage.2021.118436" target="_blank">A meta-analysis of fMRI studies of semantic cognition in children</a>. *NeuroImage*
 * **Enge, A.**, Friederici, A. D., & Skeide, M. A. (2020). <a href="https://doi.org/10.1016/j.neuroimage.2020.116858" target="_blank">A meta-analysis of fMRI studies of language comprehension in children</a>. *NeuroImage*
 
-## Talks & posters
+Go to [Publications](publications.qmd) for the full list
 
-Click [here](talks.qmd) for the full list.
+## Talks & posters
 
 * **Enge, A.**, Mahajan, V., Huettig, F., & Skeide, M. A. (2023). Densely sampling the development of multisensory mapping while learning to read. *Psychologie und Gehirn*
 * **Enge, A.**, Friederici, A. D., Abdel Rahman, R., & Skeide, M. A. (2022). Meta-analyzing the cortical networks for language and semantics in children. *14th Annual Meeting of the Society for the Neurobiology of Language*
 * **Enge, A.** & Skeide, M. A. (2022). Seeing language: How learning to read connects vision and speech. *CO-AIR: Current Opinion on Audiovisual Integration and Reading*
 * **Enge, A.**, Süß, F., & Abdel Rahman, R. (2021). Event-related potentials of the semantically informed perception of unfamiliar objects. *Tagung experimentell arbeitender Psychologen*
+
+Go to [Talks & posters](talks.qmd) for the full list
 
 ## Open source software
 
