@@ -20,7 +20,9 @@ title: "Publications"
 * **Enge, A.**, Abdel Rahman, R., & Skeide, M. A. (2021). <a href="https://doi.org/10.1016/j.neuroimage.2021.118436" target="_blank">A meta-analysis of fMRI studies of semantic cognition in children</a>. *NeuroImage*
     * <a href="https://github.com/SkeideLab/meta_semantics" target="_blank">Data and code</a>
 * Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). <a href="https://doi.org/10.1101/2021.02.24.432562" target="_blank">Distrust before first sight: Knowledge- and appearance-based effects of trustworthiness on the visual consciousness of faces</a>. *bioRxiv*
+    * <a href="https://osf.io/us754" target="_blank">Preregistration</a>
 * Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2021). <a href="https://doi.org/10.1093/cercor/bhab289" target="_blank">Electrophysiological chronometry of graded consciousness during the attentional blink</a>. *Cerebral Cortex*
+    * <a href="https://osf.io/e85hn" target="_blank">Data and code</a>
 
 ## 2020
 
