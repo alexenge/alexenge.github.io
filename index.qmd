@@ -1,5 +1,5 @@
 ---
-title: "alexander enge"
+title: "Alexander Enge"
 about:
   id: hero-heading
   template: trestles
@@ -29,7 +29,7 @@ about:
 
 :::{#hero-heading}
 
-# welcome
+# Welcome
 
 I'm glad you found your way to my website!
 
