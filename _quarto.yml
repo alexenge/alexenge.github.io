@@ -26,6 +26,7 @@ website:
       - href: talks.qmd
         text: Talks & posters
   favicon: images/favicon.png
+  google-analytics: "G-R5BP5B7W54"
   twitter-card:
     title: Alexander Enge
     description: The personal website of Alexander Enge
