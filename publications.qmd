@@ -5,7 +5,7 @@ title: "Publications"
 ## 2023
 
 * **Enge, A.**, Süß, F., & Rahman, R. A. (2023). <a href="https://doi.org/10.1523/JNEUROSCI.2038-22.2023" target="_blank">Instant effects of semantic information on visual perception</a>. *Journal of Neuroscience*
-    * <a href="https://doi.org/10.1101/2023.04.19.537469" target="_blank">Open access</a>
+    * <a href="https://doi.org/10.1101/2023.04.19.537469" target="_blank">Preprint</a>
     * <a href="https://github.com/alexenge/semantically-informed-perception" target="_blank">Stimuli and code</a>
 * **Enge, A.**, Kapoor, S., Kieslinger, A.-S., & Skeide, M. A. (2023). <a href="https://doi.org/10.1111/desc.13381" target="_blank">A meta-analysis of mental rotation in the first years of life</a>. *Developmental Science*
     * <a href="https://github.com/SkeideLab/meta_rotation" target="_blank">Data and code</a>
