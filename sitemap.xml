@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alexenge.github.io/LICENSE.html</loc>
-    <lastmod>2023-06-13T15:05:52.253Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexenge.github.io/publications.html</loc>
-    <lastmod>2023-06-13T15:05:53.213Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexenge.github.io/cv.html</loc>
-    <lastmod>2023-06-13T15:05:53.857Z</lastmod>
+    <loc>https://alexenge.github.io/running.html</loc>
+    <lastmod>2023-06-21T09:16:04.932Z</lastmod>
   </url>
   <url>
     <loc>https://alexenge.github.io/index.html</loc>
-    <lastmod>2023-06-13T15:05:54.313Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexenge.github.io/running.html</loc>
-    <lastmod>2023-06-13T15:05:54.757Z</lastmod>
+    <lastmod>2023-06-21T09:16:05.652Z</lastmod>
   </url>
   <url>
     <loc>https://alexenge.github.io/talks.html</loc>
-    <lastmod>2023-06-13T15:05:55.273Z</lastmod>
+    <lastmod>2023-06-21T09:16:06.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexenge.github.io/LICENSE.html</loc>
+    <lastmod>2023-06-21T09:16:06.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexenge.github.io/cv.html</loc>
+    <lastmod>2023-06-21T09:16:06.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alexenge.github.io/publications.html</loc>
+    <lastmod>2023-06-21T09:16:07.180Z</lastmod>
   </url>
 </urlset>
