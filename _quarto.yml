@@ -31,21 +31,21 @@ website:
     storage: none
   twitter-card:
     title: Alexander Enge
-    description: The personal website of Alexander Enge
-    image: images/logo.png
+    description: My personal website
+    image: images/thumbnail.png
     image-alt: |
-      In black, the lower-case danish letter æ,
-      combining the initials of my name (A and E).
+      In black, the lower-case danish letter æ, combining
+      the lowercase initials of my name (A and E).
     image-width: 500
     image-height: 500
     card-style: summary
     creator: "@alexenge"
     site: "@alexenge"
   open-graph:
-    image: images/logo.png
+    image: images/thumbnail.png
     image-alt: |
-      In black, the lower-case danish letter æ,
-      combining the initials of my name (A and E).
+      In black, the lower-case danish letter æ, combining
+      the lowercase initials of my name (A and E).
     image-width: 500
     image-height: 500
     locale: en-US
