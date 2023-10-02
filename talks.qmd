@@ -4,12 +4,13 @@ title: "Talks & posters"
 
 ## 2023
 
+* **Enge, A.**, Huettig, F., Mahajan, V., & Skeide, M. A. (2023). Individual differences in brain activation changes while learning to read a non-alphabetic script. *Fachgruppentagung Entwicklungspsychologie*
+* **Enge, A.**, Mahajan, V., Huettig, F., & Skeide, M. A. (2023). How reading instruction shapes brain responses in individual children. *EARLI*
 * **Enge, A.**, Mahajan, V., Huettig, F., & Skeide, M. A. (2023). Densely sampling the development of multisensory mapping while learning to read. *Psychologie und Gehirn*
-* **Enge, A.**, Huettig, F., Mahajan, V., & Skeide, M. A. (2023). Densely sampling brain activation during learning to read. *Scientific advisory board meeting, Max Planck Institute for Human Cognitive and Brain Sciences*
 
 ## 2022
 
-* **Enge, A.**, Friederici, A. D., Abdel Rahman, R., & Skeide, M. A. (2022). Meta-analyzing the cortical networks for language and semantics in children. *14th Annual Meeting of the Society for the Neurobiology of Language*
+* **Enge, A.**, Friederici, A. D., Abdel Rahman, R., & Skeide, M. A. (2022). Meta-analyzing the cortical networks for language and semantics in children. *Annual Meeting of the Society for the Neurobiology of Language*
     * <a href="https://github.com/alexenge/snl_2022" target="_blank">Slides</a>
 * Eiserbeck, A., **Enge, A.**, Rabovsky, M., & Abdel Rahman, R. (2022). Graded conscious perception during the attentional blink. *Annual meeting of the Association for the Scientific Study of Consciousness*
 * **Enge, A.** & Skeide, M. A. (2022). Seeing language: How learning to read connects vision and speech. *CO-AIR: Current Opinion on Audiovisual Integration and Reading*
