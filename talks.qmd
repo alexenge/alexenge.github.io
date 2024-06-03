@@ -2,6 +2,10 @@
 title: "Talks & posters"
 ---
 
+## 2024
+
+* **Enge, A.**, Huettig, & Skeide, M. A. (2024). Leveraging dense-sampling fMRI to test the expansion and renormalization of BOLD responses caused by learning interventions. *Psychologie und Gehirn*
+
 ## 2023
 
 * **Enge, A.**, Huettig, F., Mahajan, V., & Skeide, M. A. (2023). Individual differences in brain activation changes while learning to read a non-alphabetic script. *Fachgruppentagung Entwicklungspsychologie*
